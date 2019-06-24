@@ -1,0 +1,39 @@
+﻿#EXTM3U #####kürt Kanlar#####
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://zaroktv.krd/zaroklogo.png" group-title="kürtçe-helintv",ZAROK Tv
+https://stream-09.ix7.dailymotion.com/sec(Xio92lQyFXPlwj6tYdjikgwdDGRrwx7Z8-JY-SPwYFY)/dm/3/x63b9ty/s/live-0.m3u8
+#EXTINF:-1
+tvg-logo=https://tr.m.wikipedia.org/wiki/Rudaw_Medya_A%C4%9F%C4%B1#/media/Dosya%3ARudaw.jpg" group-title="KÜRTÇE  - HELİNTV",Rüdaw tv
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/chunklist_b2000000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/TRT_6_Yeni_Logo.png/800px-TRT_6_Yeni_Logo.png" group-title="",TRT Kürdi 
+https://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/index_750p_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.akgedik.com/wordpress/wp-content/uploads/2017/09/medtahabertv-300x232.jpg"?zoom=2" group-title="KÜRTÇE-HELİNTV",Medya Haber
+http://137.74.205.201/live15/live15.m3u8
+#EXTINF:-1 tvg-logo="http://kurtcetvizle.com/wp-content/uploads/2014/02/mmc-tv-kurtce-izle.jpg" group-title="",sterk Tv
+http://137.74.205.201/live2/sterk-3mbps.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/MedMuzik.png" group-title="",Med muzik
+http://137.74.205.201/live3/mm-3mbps.m3u8
+#EXTINF:-1 tvg-logo="https://kurdistan24.blob.core.windows.net/filemanager/resources/files/Turkey/Tr_2016/imc_tv_canli_izle_h13088_7ede2.jpg" group-title="",İmc tv
+https://r1---sn-25glene6.googlevideo.com/videoplayback?expire=1561355679&ei=PxEQXe33Icz61wbf_67ABw&ip=37.171.222.214&id=o-ADVgPpp1gKfaeBkqGb4mBQAdiFtZV49WEyvEttLZcYWS&itag=43&source=youtube&requiressl=yes&mm=31%2C29&mn=sn-25glene6%2Csn-25ge7ns7&ms=au%2Crdu&mv=m&pl=21&initcwndbps=707500&mime=video%2Fwebm&gir=yes&clen=3631785051&ratebypass=yes&dur=0.000&lmt=1473434122302598&mt=1561333918&fvip=1&c=WEB_EMBEDDED_PLAYER&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cmime%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=ALgxI2wwRgIhAPHfrra7HcFpxKYxiuNAYjModNJIi9KWCaZtwP1dNzrnAiEA5c8UPrHw0sPl6v0i2S94YjLfej2EMKql9-ya43CW7AA%3D&lsparams=mm%2Cmn%2Cms%2Cmv%2Cpl%2Cinitcwndbps&lsig=AHylml4wRAIgEtE0s5pIqyD3cBQKeUbeanQ5u1hcsO8Th-9GPANhTscCICVwelxDmpCHJGbHaZiKfMYfiJ2XjbJFvUffjrkbDYsf
+#EXTINF:-1 tvg-logo="https://kurd-sitee.weebly.com/uploads/3/2/0/2/32024227/7583684_orig.jpg" group-title="",korekTv
+http://95.216.46.88:8081/korektv/korek_abr/korektv/korek/chunks.m3u8?nimblesessionid=8207019&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDE5IDExOjU4OjI3IFBNJmhhc2hfdmFsdWU9UWFyL29ETVRZdC9JdmgrL3cvUERoZz09JnZhbGlkbWludXRlcz0yNDA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/1/14/Kurdistan_tv.png" group-title="",kurdistan tv
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist_w1159233377_b1296000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.freqsat.com/wp-content/uploads/2018/08/Waar-TV-HD.png" group-title="",waar tv
+http://avenuewtv1.srfms.com:4436/live/waartv2019/chunklist_w1277597585.m3u8
+#EXTINF:-1 tvg-logo="http://i.hurimg.com/i/hurriyet/75/750x422/5c4e7fe00f25441d780cd2b4.jpg" group-title="havin tv",Nrt Tv
+https://live1.karwan.org/karwan.tv/nalia-tv/chunks.m3u8?nimblesessionid=938477&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDE5IDEyOjIxOjE2IEFNJmhhc2hfdmFsdWU9WkMraS9yNEhEY1paVWRIdCtMcGVMZz09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 tvg-logo="https://univsul.edu.iq/en/wena/20170911193620.png" group-title="KÜRTÇE-HELİNTV",Gali kürdistan
+http://173.249.45.123:8080/hls/livestream/1_2/index.m3u8=
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-KotoG4qm4Ag/VOrVMpGLjeI/AAAAAAAADHc/4uYchMetv-U/s1600/logo-duhok-tv.gif" group-title="KÜRTÇE-HELİNTV",Dohok Tv
+https://r1---sn-4g5e6nss.googlevideo.com/videoplayback?expire=1561357513&ei=aRgQXffDDpSX1gbxt5cw&ip=37.171.222.214&id=o-AI65tAC1GrIIRACoI5zHyQKGmAuNKbezLO8TQ-0zAxOH&itag=18&source=youtube&requiressl=yes&mime=video%2Fmp4&gir=yes&clen=213056223&ratebypass=yes&dur=3997.245&lmt=1515339747385077&fvip=2&c=WEB_EMBEDDED_PLAYER&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cmime%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=ALgxI2wwRQIgC02WUX7PbNVmLu_yXFO4OXY93wGpCYyWd2VBo6OCWcoCIQDCBAj5_ETIlv3LEV606__gHee7S0EBML3gqjXO0KIFsQ%3D%3D&cm2rm=sn-4gxx-25gee7e,sn-25g667l&req_id=11ca5dfa063aa3ee&ipbypass=yes&redirect_counter=2&cms_redirect=yes&mm=34&mn=4sn-4g5e6nss&ms=ltu&mt=1561335881&mv=m&pl=21&lsparams=ipbypass,mm,mn,ms,mv,pl&lsig=AHylml4wRgIhANjcmN5oBUZ1o2gCg_VkE9HV6zY6jKi6U3vSOWpDgohDAiEA72IMY3XTDTi48Lm0uzxF8UOzCC7XzckmEUOn8eBAtjY=
+#EXTINF:-1 tvg-logo="https://www.tradodat.com/wp-content/uploads/2018/02/www.jpg.710x470_q85_crop.jpg" group-title="KÜRTÇE-HELİNTV",pepule Tv
+#EXTINF:-1 tvg-logo="http://www.kurditv2.com/wp-content/uploads/2015/12/newline.png" group-title="KÜRTÇE-HELİNTV",new line Tv
+https://cdn3.karwan.org/karwan.tv/newline-tv/chunks.m3u8?nimblesessionid=26859&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDE5IDEyOjI5OjMyIEFNJmhhc2hfdmFsdWU9NDhic05raXJNL1JXc1JueUg1VEhlUT09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l7-iHFenmNXCjRoQMswuad_WO_7x2injgxbG9w=s800-mo-c-c0xffffffff-rj-k-no" group-title="KÜRTÇE-HELİNTV",speda Tv
+https://r13---sn-4gxx-25ge7.googlevideo.com/videoplayback?id=d38d8811d6be83dc&itag=22&source=youtube&requiressl=yes&mm=31&mn=sn-4gxx-25ge7&ms=au&mv=m&nh=EAE&pcm2cms=yes&pl=21&ei=ghsQXc28C5fWc9Xhp9gE&susc=yti&mime=video/mp4&dur=6.060&lmt=1539162347584914&mt=1561336572&txp=5531432&ip=37.171.222.214&ipbits=0&expire=1561365506&sparams=ip,ipbits,expire,id,itag,source,requiressl,mm,mn,ms,mv,nh,pcm2cms,pl,ei,susc,mime,dur,lmt&signature=5DA4D9CCF74E81D22F04F4B94B5DA6FC36E44C15E6D6369D8CD946BFEB1515B6.E8ACE127ED51CE2117E0D52BAA268FE6B856EE39071D2A54952493BC955E8F68&key=us0
+#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/GemTV-1.png" group-title="KÜRTÇE-HELİNTV",gem kurd tv
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www/.millereponses.com/wp-content/uploads/2018/11/sahartv-kurdish-frequence-nilesat.jpg?ssl=1" group-title="KÜRTÇE-HELİNTV",shar kurd Tv
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/da01c559570509.5a2721c833e2d.png" group-title="KÜRTÇE-HELİNTV",kurdistan 24 Tv
+http://95.216.46.88:8081/kurdistan24tv/kurdistan24_abr/kurdistan24tv/kurdistan24/chunks.m3u8?nimblesessionid=8208079&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDE5IDEyOjUwOjU1IEFNJmhhc2hfdmFsdWU9b0pGN3d6SUZRVThHRE1FUkp4MElIQT09JnZhbGlkbWludXRlcz0yNDA=
